@@ -3,7 +3,7 @@
 **Freelance Software-Architekt & Entwickler** — Kaiserslautern, DE
 
 Ich baue schlichte, robuste Software für anspruchsvolle Projekte.
-Architektur, Full-Stack-Entwicklung und technische Beratung aus einer Hand —
+Architektur, Full-Stack-Entwicklung und technische Beratung aus einer Hand:
 von der ersten Skizze bis in den Betrieb.
 
 > Klarheit vor Cleverness. Architektur als Grundlage.
