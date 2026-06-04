@@ -1,15 +1,34 @@
-# Hi There! :wave: 
-<p align="center"> 
-  <samp>
-  I'm Marius Brill, an experienced Software Engineer with a passion for value driven software.
-  </samp>
-</p>
+# Marius Brill
 
-### Some of my skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,js,nodejs,react,aws,azure,py,docker,grafana,latex,terraform)](https://skillicons.dev)
+**Freelance Software-Architekt & Entwickler** — Kaiserslautern, DE
 
+Ich baue schlichte, robuste Software für anspruchsvolle Projekte.
+Architektur, Full-Stack-Entwicklung und technische Beratung aus einer Hand —
+von der ersten Skizze bis in den Betrieb.
 
+> Klarheit vor Cleverness. Architektur als Grundlage, nicht als Nachgedanke.
 
-### Find me on
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=whte&link=[https://www.linkedin.com/in/jayrajroshan/](https://www.linkedin.com/in/marius-brill-52b921177/))]([[https://www.linkedin.com/in/marius-brill-52b921177/](https://www.linkedin.com/in/marius-brill-52b921177/)](https://www.linkedin.com/in/marius-brill-52b921177/))
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kontakt@marius-brill.de)](mailto:kontakt@marius-brill.de)
+---
+
+### Was ich mache
+
+- **Software-Architektur** — Domain-driven Design, Event-driven Systems, Arc42
+- **Full-Stack-Entwicklung** — Java/Spring Boot, TypeScript/React, Python
+- **Cloud & Plattform** — AWS, Azure, GCP, Kubernetes, Terraform
+- **Observability** — OpenTelemetry, Grafana, Prometheus, Jaeger
+- **AI-Accelerated Prototyping** — schnell von Idee zu belastbarem Prototyp
+- **Refactoring & Modernisierung** — Altsysteme in tragfähige Architekturen überführen
+
+### Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,ts,react,nodejs,py,postgres,docker,kubernetes,terraform,aws,azure,gcp,grafana)](https://skillicons.dev)
+
+---
+
+### Kontakt
+
+🌐 **Website** — [marius-brill.de](https://marius-brill.de)
+💼 **LinkedIn** — [marius-brill](https://www.linkedin.com/in/marius-brill-52b921177/)
+✉️ **E-Mail** — [kontakt@marius-brill.de](mailto:kontakt@marius-brill.de)
+
+*Projektanfragen, Sparring, Beratung — kurze Nachricht mit Kontext genügt. Antwort in der Regel innerhalb von 48 Stunden.*
